@@ -1,0 +1,6 @@
+build/
+tests/cases/tiny.txt
+tests/cases/crowded.txt
+tests/cases/failed/auto_*.txt
+
+imgui.ini

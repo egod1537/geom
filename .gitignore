@@ -1,0 +1,5 @@
+checker/build/
+checker/**/cases/failed/auto_*.txt
+**/tests/cases/failed/auto_*.txt
+checker/examples/sort_uniq/tests/cases/all_same.txt
+checker/examples/sort_uniq/tests/cases/mixed.txt
